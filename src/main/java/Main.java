@@ -6,7 +6,7 @@ public class Main {
 	public static void main(String[] args) {
 		WebDriver driver = new ChromeDriver();
 		
-		driver.get("https://www.google.cz");
+		driver.get("https://www.google.com");
 		
 		driver.quit();
 	}
